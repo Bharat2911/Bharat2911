@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Bharat Singh</h1>
 <h3 align="center">A passionate coder from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat2911&label=Profile%20views&color=0e75b6&style=flat" alt="bharat2911" /> </p>
 
@@ -27,7 +24,7 @@
 <a href="https://linkedin.com/in/bharat-singh-b53312215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-singh-b53312215" height="30" width="40" /></a>
 <a href="https://instagram.com/b_h_a_r_a_t_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_h_a_r_a_t_08" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bharat_2911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bharat_2911" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Bharat_2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Bharat_2911" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bharat_2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharat_2911" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/white_devill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="white_devill" height="30" width="40" /></a>
 </p>
 
