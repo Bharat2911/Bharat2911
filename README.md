@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/bharat-singh-b53312215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-singh-b53312215" height="30" width="40" /></a>
 <a href="https://instagram.com/b_h_a_r_a_t_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_h_a_r_a_t_08" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bharat_2911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bharat_2911" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/white_devil_1691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="white_devil_1691" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/white_devil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="white_devil_1691" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/white_devill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="white_devill" height="30" width="40" /></a>
 </p>
 
